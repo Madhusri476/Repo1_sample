@@ -1,3 +1,6 @@
 Main branch1
 Main branch2
 main branch3
+//////
+branch1 created from main here, will create branch2 and push it first 
+and see we will get conflicts or not while merging branch1 into main
